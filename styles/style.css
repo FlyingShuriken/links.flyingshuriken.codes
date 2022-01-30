@@ -39,6 +39,7 @@ body {
 }
 
 #userName {
+  margin: 1rem;
   color: var(--accentColor);
   font-size: 1rem;
   font-weight: bold;
